@@ -1,0 +1,60 @@
+html {
+    background-color: #679b9b;
+}
+
+header {
+    overflow: auto;
+    background-color: #f7c5a8;
+    color: black;
+    margin-top: 10px;
+}
+
+hr {
+    width: 10%;
+    border: none;
+    border-top: 10px dotted #ffeadb;
+}
+
+.top {
+    border: 2px solid black;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.second-title {
+    text-align: center;
+}
+
+.wahbanana h3, .react h3 ,.cimorelli h3{
+    text-align: center;
+    font-size: 25px;
+    padding: 0;
+    margin: 0;
+}
+
+.wahbanana, .cimorelli, .react {
+    margin: 10px 0;
+    background-color: #ff9a76;
+    color: black;
+    border: 2px solid black;
+    overflow: auto;
+    padding: 35px 20px
+}
+
+
+.wah-the-fun, .eat, .cim1 {
+    display: block;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.super-killer-game, .impossible, .cim2 {
+    display: block;
+    width: 50%;
+    float: right;
+    text-align: center;
+}
